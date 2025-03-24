@@ -1,5 +1,4 @@
 ---
-version: "3"
 name: ecto_network
 
 services:
