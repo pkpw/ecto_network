@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## unreleased
 
+
+## v1.6.0 - 2025-09-10
+
 - Remove redundant case from typechecker warning ([hchienjo](https://github.com/hchienjo))
 - Validate IP address when casting tuple ([zaratedev](https://github.com/zaratedev))
 - No longer testing for Ecto 3.0 ([adam12](https://github.com/adam12))
